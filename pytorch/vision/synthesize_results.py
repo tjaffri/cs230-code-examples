@@ -1,4 +1,4 @@
-"""Aggregates results from the metrics_eval_best_weights.json in a parent folder"""
+"""Aggregates results from the metrics_val_best_weights.json in a parent folder"""
 
 import argparse
 import json

@@ -13,7 +13,7 @@ We recommend using python3 and a virtual env. See instructions [here](https://cs
 ```
 virtualenv -p python3 .env
 source .env/bin/activate
-pip install -r requirements.txt
+pip install --no-cache-dir -r requirements.txt
 ```
 
 When you're done working on the project, deactivate the virtual environment with `deactivate`.
